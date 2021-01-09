@@ -1,6 +1,8 @@
-### Hi there 👋, I'm Ahmad Ali!
+# Hi there 👋, I'm Ali!
 
-<!--
-**ahmdali25/ahmdali25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm passionate about front-end web development
 
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning **Javascript** and **Vue.js**
+
+### Let's Connect!
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahmadaliazhary/)
