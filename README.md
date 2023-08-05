@@ -2,7 +2,7 @@
 
 ### A Frontend Developer
 
-- 🌱 I’m currently learning **React.js** and **Typescript**
+- 🌱 I’m currently learning **React** and **Typescript**
 - :mailbox_with_no_mail: How to reach me : ahmadaliazhary@gmail.com
 
 ### Tech Stack
